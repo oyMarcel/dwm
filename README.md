@@ -2,7 +2,6 @@
 My own dwm fork
 
 # How to use
-- Download dwm from dwm.suckless.org
-- Unzip it
-- Replace the config.h with my config.h
+- Git clone this
 - Run sudo make clean install
+- Enjoy
